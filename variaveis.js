@@ -7,4 +7,4 @@ idade = 30; // Variavel do tipo number
 
 let numero = 50; // number
 let alutura = 1.77; // number
-let nome = "Walisson" //string
+let nome = "Walisson" //string 
