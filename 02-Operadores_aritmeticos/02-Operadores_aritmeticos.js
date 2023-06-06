@@ -1,3 +1,8 @@
+/*
+Operadores Aritimeticos
+Autor: Lucas Rocha
+Data:  31/05/2023
+*/
 let primeiroNumero = 20;
 let segundoNumero = 2;
 
